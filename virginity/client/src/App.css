@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap");
+
+body {
+  background-color: rgb(46, 28, 28);
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+
+.navbar a {
+  font-size: 5rem;
+  text-decoration: none;
+  color: white;
+}
+
+.AnimationY {
+  color: white;
+  background-color: blue;
+  font-family: "Roboto", sans-serif;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  align-items: center;
+  width: 200px;
+  border-radius: 12px;
+}

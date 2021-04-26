@@ -1,8 +1,10 @@
+import { Link } from "react-router-dom"
+
 function Navbar() {
   return (
     <nav className="container">
       <div className="navbar">
-        <a href="/login">Login</a>
+        <Link to="/login">Login</Link>
       </div>
     </nav>
   );
